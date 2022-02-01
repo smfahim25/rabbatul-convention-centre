@@ -1,0 +1,27 @@
+.bg-color{
+    background-color: #f388ea;
+}
+.package-radius{
+    border-radius: 30px;
+}
+.package-btn{
+    width: 232px;
+}
+.btn-bg{
+    background-color: #fce6f3;
+}
+.shadow-package{
+    box-shadow: 0 35px 34px 0 #f388ea40;
+}
+.footer-bg{
+    background-color: #0B0D17;
+}
+.btn-text{
+    color: #3F87F5;
+}
+.slider-btn{
+    width: 168px;
+}
+a{
+    text-decoration: none;
+}
